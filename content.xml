@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202606030643561IHKAS</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260603064356DCSZIA</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>FÍSICA BENJAMIN 4°</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780479829078</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1780478765481-btgou717q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CLASE 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CLASE 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780478765481-btgou717q</odePageId>
+      <odeBlockId>block-1780478867243-26imrbkwa</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780478765481-btgou717q</odePageId>
+          <odeBlockId>block-1780478867243-26imrbkwa</odeBlockId>
+          <odeIdeviceId>idevice-1780478867240-xmeclydpd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #222222;"><!-- TITULO PRINCIPAL -->
+<div style="background-color: #0056b3; color: white; padding: 20px; text-align: center; border-radius: 8px;">
+<h1 style="margin: 0; font-size: 28px;">EL MOVIMIENTO EN LÍNEA RECTA (M.R.U.V.)</h1>
+</div>
+<br /><br /><!-- SECCION 1: REPASO -->
+<div style="background-color: #f4f6f9; border-left: 5px solid #0056b3; padding: 15px; border-radius: 4px;">
+<h2 style="color: #0056b3; margin-top: 0;">1. INICIO: REPASO CORTO </h2>
+<p><strong>¿QUÉ SABEMOS DEL M.R.U.V.?</strong></p>
+<ul>
+<li>EL OBJETO SE MUEVE EN <strong>LÍNEA RECTA</strong>.</li>
+<li>LA VELOCIDAD CAMBIA DE FORMA <strong>ORDENADA</strong> PORQUE LA ACELERACIÓN NO CAMBIA.</li>
+</ul>
+</div>
+<br /><br /><!-- SECCION 2: CASO 1 -->
+<div style="background-color: #eafaf1; border-left: 5px solid #2ecc71; padding: 15px; border-radius: 4px;">
+<h2 style="color: #27ae60; margin-top: 0;">2. PARTE 1: IR MÁS RÁPIDO</h2>
+<p><strong>CASO 1: EL MOVIMIENTO ACELERADO</strong></p>
+<p>OCURRE CUANDO LA VELOCIDAD <strong>AUMENTA</strong>. EL OBJETO VA CADA VEZ <strong>MÁS RÁPIDO</strong>.</p>
+<p><strong>EJEMPLO REAL:</strong> UN GATO VE UN RATÓN Y EMPIEZA A CORRER EN LÍNEA RECTA. EL GATO CORRE CADA VEZ MÁS RÁPIDO PARA ATRAPARLO.</p>
+<!-- CONTENEDOR MULTIMEDIA CASO 1 -->
+<div style="text-align: center; margin-top: 20px; padding: 15px; background: white; border: 1px dashed #2ecc71;">
+<p style="color: #555;"><iframe width="315" height="560" src="https://www.youtube.com/embed/Ulev31GJwQM?si=ckMu8iKF6YJv1BF9" allowfullscreen="allowfullscreen"></iframe></p>
+</div>
+</div>
+<br /><br /><!-- SECCION 3: RECREO VISUAL -->
+<div style="background-color: #fff9e6; border: 2px dashed #f39c12; padding: 20px; text-align: center; border-radius: 8px;">
+<h2 style="color: #d35400; margin-top: 0;">3. RECREO VISUAL (5 MINUTOS)</h2>
+<p style="font-size: 18px; font-weight: bold;">¡MOMENTO DE DESCANSAR LOS OJOS!</p>
+<p>DEJA EL MOUSE EN LA MESA. MIRA POR LA VENTANA O MIRA UNA PARED LEJOS DE LA PANTALLA. CUENTA HASTA 20 DESPACIO.</p>
+</div>
+<br /><br /><!-- SECCION 4: CASO 2 -->
+<div style="background-color: #fdedec; border-left: 5px solid #e74c3c; padding: 15px; border-radius: 4px;">
+<h2 style="color: #c0392b; margin-top: 0;">4. PARTE 2: IR MÁS LENTO </h2>
+<p><strong>CASO 2: EL MOVIMIENTO RETARDADO</strong></p>
+<p>OCURRE CUANDO LA VELOCIDAD <strong>DISMINUYE</strong>. EL OBJETO VA CADA VEZ <strong>MÁS LENTO</strong>.</p>
+<p><strong>EJEMPLO REAL:</strong> UN AUTO VA POR LA CALLE Y VE UN LOMO DE BURRO. EL AUTO PISA EL FRENO Y VA CADA VEZ MÁS LENTO PARA PASAR DESPACIO.</p>
+<!-- CONTENEDOR MULTIMEDIA CASO 2 -->
+<div style="text-align: center; margin-top: 20px; padding: 15px; background: white; border: 1px dashed #e74c3c;">
+<p style="color: #555; margin: 0;"><iframe width="315" height="560" src="https://www.youtube.com/embed/exOUOANr4_U?si=O9w7End5jX3PVvoo" allowfullscreen="allowfullscreen"></iframe></p>
+</div>
+</div>
+<br /><br /><!-- SECCION 5: TRIVIA INTERACTIVA -->
+<div style="background-color: #f3e5f5; border-left: 5px solid #9c27b0; padding: 15px; border-radius: 4px;">
+<h2 style="color: #7b1fa2; margin-top: 0;">5. <strong>COPIÁ</strong> LA CONSIGNA, <strong>RESPONDÉ</strong> Y <strong>JUSTIFICÁ</strong></h2>
+<p><strong>MIRA CADA SITUACIÓN Y PIENSA TU RESPUESTA:</strong></p>
+<div style="background: white; padding: 10px; margin-bottom: 10px; border-radius: 4px;">
+<p><strong>SITUACIÓN 1:</strong> UN AVIÓN SE PREPARA PARA DESPEGAR. ENCIENDE LOS MOTORES Y CORRE POR LA PISTA CADA VEZ CON MÁS VELOCIDAD.</p>
+<p style="color: #7b1fa2;"><strong>¿EL AVIÓN ESTÁ ACELERANDO O FRENANDO? IMAGINA EL VELOCÍMETRO, ¿LA VELOCIDAD AUMENTA O DISMINUYE?</strong></p>
+</div>
+<div style="background: white; padding: 10px; border-radius: 4px;">
+<p><strong>SITUACIÓN 2:</strong> UNA BICICLETA VA POR LA VEREDA Y SE ACERCA A UNA ESQUINA. EL CHICO PISA EL FRENO DE LA RUEDA.</p>
+<p style="color: #7b1fa2;"><strong>¿LA BICICLETA ESTÁ ACELERANDO O FRENANDO? SUPONGAMOS QUE LA BICICLETA TIENE INCORPORADO UN VELOCÍMETRO, ¿LA VELOCIDAD AUMENTA O DISMINUYE?</strong></p>
+</div>
+</div>
+</div>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780478867240-xmeclydpd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #222222;\"><!-- TITULO PRINCIPAL -->\n<div style=\"background-color: #0056b3; color: white; padding: 20px; text-align: center; border-radius: 8px;\">\n<h1 style=\"margin: 0; font-size: 28px;\">EL MOVIMIENTO EN LÍNEA RECTA (M.R.U.V.)</h1>\n</div>\n<br /><br /><!-- SECCION 1: REPASO -->\n<div style=\"background-color: #f4f6f9; border-left: 5px solid #0056b3; padding: 15px; border-radius: 4px;\">\n<h2 style=\"color: #0056b3; margin-top: 0;\">1. INICIO: REPASO CORTO </h2>\n<p><strong>¿QUÉ SABEMOS DEL M.R.U.V.?</strong></p>\n<ul>\n<li>EL OBJETO SE MUEVE EN <strong>LÍNEA RECTA</strong>.</li>\n<li>LA VELOCIDAD CAMBIA DE FORMA <strong>ORDENADA</strong> PORQUE LA ACELERACIÓN NO CAMBIA.</li>\n</ul>\n</div>\n<br /><br /><!-- SECCION 2: CASO 1 -->\n<div style=\"background-color: #eafaf1; border-left: 5px solid #2ecc71; padding: 15px; border-radius: 4px;\">\n<h2 style=\"color: #27ae60; margin-top: 0;\">2. PARTE 1: IR MÁS RÁPIDO</h2>\n<p><strong>CASO 1: EL MOVIMIENTO ACELERADO</strong></p>\n<p>OCURRE CUANDO LA VELOCIDAD <strong>AUMENTA</strong>. EL OBJETO VA CADA VEZ <strong>MÁS RÁPIDO</strong>.</p>\n<p><strong>EJEMPLO REAL:</strong> UN GATO VE UN RATÓN Y EMPIEZA A CORRER EN LÍNEA RECTA. EL GATO CORRE CADA VEZ MÁS RÁPIDO PARA ATRAPARLO.</p>\n<!-- CONTENEDOR MULTIMEDIA CASO 1 -->\n<div style=\"text-align: center; margin-top: 20px; padding: 15px; background: white; border: 1px dashed #2ecc71;\">\n<p style=\"color: #555;\"><iframe width=\"315\" height=\"560\" src=\"https://www.youtube.com/embed/Ulev31GJwQM?si=ckMu8iKF6YJv1BF9\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n</div>\n</div>\n<br /><br /><!-- SECCION 3: RECREO VISUAL -->\n<div style=\"background-color: #fff9e6; border: 2px dashed #f39c12; padding: 20px; text-align: center; border-radius: 8px;\">\n<h2 style=\"color: #d35400; margin-top: 0;\">3. RECREO VISUAL (5 MINUTOS)</h2>\n<p style=\"font-size: 18px; font-weight: bold;\">¡MOMENTO DE DESCANSAR LOS OJOS!</p>\n<p>DEJA EL MOUSE EN LA MESA. MIRA POR LA VENTANA O MIRA UNA PARED LEJOS DE LA PANTALLA. CUENTA HASTA 20 DESPACIO.</p>\n</div>\n<br /><br /><!-- SECCION 4: CASO 2 -->\n<div style=\"background-color: #fdedec; border-left: 5px solid #e74c3c; padding: 15px; border-radius: 4px;\">\n<h2 style=\"color: #c0392b; margin-top: 0;\">4. PARTE 2: IR MÁS LENTO </h2>\n<p><strong>CASO 2: EL MOVIMIENTO RETARDADO</strong></p>\n<p>OCURRE CUANDO LA VELOCIDAD <strong>DISMINUYE</strong>. EL OBJETO VA CADA VEZ <strong>MÁS LENTO</strong>.</p>\n<p><strong>EJEMPLO REAL:</strong> UN AUTO VA POR LA CALLE Y VE UN LOMO DE BURRO. EL AUTO PISA EL FRENO Y VA CADA VEZ MÁS LENTO PARA PASAR DESPACIO.</p>\n<!-- CONTENEDOR MULTIMEDIA CASO 2 -->\n<div style=\"text-align: center; margin-top: 20px; padding: 15px; background: white; border: 1px dashed #e74c3c;\">\n<p style=\"color: #555; margin: 0;\"><iframe width=\"315\" height=\"560\" src=\"https://www.youtube.com/embed/exOUOANr4_U?si=O9w7End5jX3PVvoo\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n</div>\n</div>\n<br /><br /><!-- SECCION 5: TRIVIA INTERACTIVA -->\n<div style=\"background-color: #f3e5f5; border-left: 5px solid #9c27b0; padding: 15px; border-radius: 4px;\">\n<h2 style=\"color: #7b1fa2; margin-top: 0;\">5. <strong>COPIÁ</strong> LA CONSIGNA, <strong>RESPONDÉ</strong> Y <strong>JUSTIFICÁ</strong></h2>\n<p><strong>MIRA CADA SITUACIÓN Y PIENSA TU RESPUESTA:</strong></p>\n<div style=\"background: white; padding: 10px; margin-bottom: 10px; border-radius: 4px;\">\n<p><strong>SITUACIÓN 1:</strong> UN AVIÓN SE PREPARA PARA DESPEGAR. ENCIENDE LOS MOTORES Y CORRE POR LA PISTA CADA VEZ CON MÁS VELOCIDAD.</p>\n<p style=\"color: #7b1fa2;\"><strong>¿EL AVIÓN ESTÁ ACELERANDO O FRENANDO? IMAGINA EL VELOCÍMETRO, ¿LA VELOCIDAD AUMENTA O DISMINUYE?</strong></p>\n</div>\n<div style=\"background: white; padding: 10px; border-radius: 4px;\">\n<p><strong>SITUACIÓN 2:</strong> UNA BICICLETA VA POR LA VEREDA Y SE ACERCA A UNA ESQUINA. EL CHICO PISA EL FRENO DE LA RUEDA.</p>\n<p style=\"color: #7b1fa2;\"><strong>¿LA BICICLETA ESTÁ ACELERANDO O FRENANDO? SUPONGAMOS QUE LA BICICLETA TIENE INCORPORADO UN VELOCÍMETRO, ¿LA VELOCIDAD AUMENTA O DISMINUYE?</strong></p>\n</div>\n</div>\n</div>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpxv2o7h-4w09sufgq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿POR QUÉ CAEN LAS COSAS?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿POR QUÉ CAEN LAS COSAS?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿POR QUÉ CAEN LAS COSAS?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿POR QUÉ CAEN LAS COSAS?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpxv2o7h-4w09sufgq</odePageId>
+      <odeBlockId>block-1780260082818-prhev8m5d</odeBlockId>
+      <blockName>DESAFÍOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpxv2o7h-4w09sufgq</odePageId>
+          <odeBlockId>block-1780260082818-prhev8m5d</odeBlockId>
+          <odeIdeviceId>idevice-1780260082816-qactidhnk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: Arial, sans-serif; max-width: 900px; margin: 0 auto; padding: 15px; color: #333; line-height: 1.6;">
+<div style="background-color: #e8f4fd; border-left: 6px solid #21b6ff; padding: 15px; margin-bottom: 30px; border-radius: 4px;">
+<h3 style="margin-top: 0; color: #0076b3; font-size: 1.3em; display: flex; align-items: center;">🕒 Agenda de hoy: Clase 1 (80 minutos)</h3>
+<p style="margin: 5px 0; font-weight: bold; color: #555;">Seguiremos estos pasos en orden:</p>
+<ol style="margin: 5px 0 0 20px; padding: 0; font-size: 1.05em;">
+<li style="margin-bottom: 5px;"><strong>Paso 1 (20 min):</strong> Ver un video y aprender qué es el aire.</li>
+<li style="margin-bottom: 5px;"><strong>Paso 2 (40 min):</strong> Usar el simulador interactivo en la computadora (Laboratorio).</li>
+<li style="margin-bottom: 5px;"><strong>Paso 3 (20 min):</strong> Responder las preguntas finales en la pantalla. ¡Y terminamos!</li>
+</ol>
+</div>
+<h2 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 8px; margin-top: 30px;">1. La carrera de la pluma y la manzana (20 min)</h2>
+<p style="font-size: 1.1em;">Si estás en el patio de la escuela y soltás una <strong>pluma de ave</strong> y una <strong>manzana</strong> al mismo tiempo desde la misma altura... ¿Cuál llega primero al suelo?</p>
+<div style="background-color: #fff8e1; border-left: 4px solid #ffb300; padding: 12px; margin-bottom: 20px; border-radius: 4px; font-weight: bold;">👉 En la Tierra, la manzana gana la carrera siempre. La pluma cae despacio, hamacándose en el aire.</div>
+<p><strong>¿Qué pasa si sacamos todo el aire de una habitación?</strong> Mirá este video donde científicos usan una cámara de vacío gigante (una habitación gigante de metal a la que le absorben todo el aire con bombas potentes):</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000; margin-bottom: 25px; border-radius: 8px;"><iframe width="100" height="100" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/E43-CfukEgs?start=155" title="Feather & Hammer Drop in Vacuum Chamber" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<div style="background-color: #e8f5e9; border: 2px solid #2e7d32; padding: 15px; border-radius: 8px; margin-bottom: 35px;">
+<h3 style="margin-top: 0; color: #1b5e20; font-size: 1.2em;">💡 Concepto Científico Clave:</h3>
+<p style="margin: 0; font-size: 1.1em;">A este movimiento lo llamamos <strong>Caída Libre</strong>. <br />La Caída Libre ocurre cuando un objeto cae de forma ideal <strong>sin que el aire lo frene</strong>. Cuando no hay aire, la gravedad de la Tierra atrae a todos los cuerpos por igual: <strong>¡todos los objetos caen exactamente con la misma velocidad, sin importar su peso!</strong></p>
+</div>
+<h2 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 8px;">2. Laboratorio Virtual con PhET (40 min)</h2>
+<p style="font-size: 1.1em;">Ahora te toca a vos ser el científico. Vamos a experimentar usando el simulador interactivo de la pantalla.</p>
+<div style="background-color: #f9f9f9; border: 1px solid #dcdcdc; padding: 20px; border-radius: 8px; margin-bottom: 25px;">
+<h4 style="margin-top: 0; color: #d35400; font-size: 1.1em;">📋 Instrucciones de tu experimento (Seguí los pasos 1, 2 y 3):</h4>
+<p><strong>Paso 1: Preparar el laboratorio</strong></p>
+<ul style="margin: 0 0 15px 20px; padding: 0;">
+<li>Hacé clic en la ventana del simulador de abajo para activarlo.</li>
+<li>Buscá en el menú de la derecha el botón que dice <strong>"Resistencia del aire"</strong> y asegurate de <strong>desactivarlo o desmarcarlo</strong> (así borramos el aire de la pantalla).</li>
+</ul>
+<p><strong>Paso 2: Lanzar los objetos</strong></p>
+<ul style="margin: 0 0 15px 20px; padding: 0;">
+<li>Elegí dos objetos diferentes: por ejemplo, una <strong>bola de bowling pesada</strong> y una <strong>pelota de tenis liviana</strong>.</li>
+<li>Subilos a la misma altura usando el cursor.</li>
+<li>Soltalos al mismo tiempo.</li>
+</ul>
+<p><strong>Paso 3: Registrar lo observado</strong></p>
+<p style="margin: 0;">Mirá la línea de caída: ¿Alguna pelota se adelantó o cayeron tocando el suelo de forma idéntica?</p>
+</div>
+<div style="position: relative; padding-bottom: 65%; height: 0; overflow: hidden; max-width: 100%; background: #eceff1; margin-bottom: 35px; border-radius: 8px; border: 2px solid #b0bec5;"><iframe width="100" height="100" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_es.html" title="PhET Fuerzas y Movimiento" data-mce-fragment="1"></iframe></div>
+<h2 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 8px;">3. ¿Qué aprendimos hoy? (20 min)</h2>
+<p style="font-style: italic; color: #666; margin-bottom: 20px;">Hacé clic en la respuesta que consideres correcta según tu trabajo en el laboratorio virtual:</p>
+<div style="background: #fdfefe; border: 1px solid #ccc; padding: 15px; margin-bottom: 15px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+<p style="font-weight: bold; margin-top: 0; font-size: 1.05em;">Pregunta A: Si apagamos la "resistencia del aire" en el simulador, ¿cómo caen una bola pesada y una pelota liviana?</p>
+<button onclick="document.getElementById('c1-r1').style.display='block'; document.getElementById('c1-r2').style.display='none';" style="display: block; width: 100%; text-align: left; padding: 10px; margin-bottom: 6px; background: #fff; border: 1px solid #bbb; border-radius: 4px; cursor: pointer;">1. La bola pesada cae muchísimo más rápido.</button></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780260082816-qactidhnk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: Arial, sans-serif; max-width: 900px; margin: 0 auto; padding: 15px; color: #333; line-height: 1.6;\">\n<div style=\"background-color: #e8f4fd; border-left: 6px solid #21b6ff; padding: 15px; margin-bottom: 30px; border-radius: 4px;\">\n<h3 style=\"margin-top: 0; color: #0076b3; font-size: 1.3em; display: flex; align-items: center;\">🕒 Agenda de hoy: Clase 1 (80 minutos)</h3>\n<p style=\"margin: 5px 0; font-weight: bold; color: #555;\">Seguiremos estos pasos en orden:</p>\n<ol style=\"margin: 5px 0 0 20px; padding: 0; font-size: 1.05em;\">\n<li style=\"margin-bottom: 5px;\"><strong>Paso 1 (20 min):</strong> Ver un video y aprender qué es el aire.</li>\n<li style=\"margin-bottom: 5px;\"><strong>Paso 2 (40 min):</strong> Usar el simulador interactivo en la computadora (Laboratorio).</li>\n<li style=\"margin-bottom: 5px;\"><strong>Paso 3 (20 min):</strong> Responder las preguntas finales en la pantalla. ¡Y terminamos!</li>\n</ol>\n</div>\n<h2 style=\"color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 8px; margin-top: 30px;\">1. La carrera de la pluma y la manzana (20 min)</h2>\n<p style=\"font-size: 1.1em;\">Si estás en el patio de la escuela y soltás una <strong>pluma de ave</strong> y una <strong>manzana</strong> al mismo tiempo desde la misma altura... ¿Cuál llega primero al suelo?</p>\n<div style=\"background-color: #fff8e1; border-left: 4px solid #ffb300; padding: 12px; margin-bottom: 20px; border-radius: 4px; font-weight: bold;\">👉 En la Tierra, la manzana gana la carrera siempre. La pluma cae despacio, hamacándose en el aire.</div>\n<p><strong>¿Qué pasa si sacamos todo el aire de una habitación?</strong> Mirá este video donde científicos usan una cámara de vacío gigante (una habitación gigante de metal a la que le absorben todo el aire con bombas potentes):</p>\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000; margin-bottom: 25px; border-radius: 8px;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;\" src=\"https://www.youtube.com/embed/E43-CfukEgs?start=155\" title=\"Feather & Hammer Drop in Vacuum Chamber\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div>\n<div style=\"background-color: #e8f5e9; border: 2px solid #2e7d32; padding: 15px; border-radius: 8px; margin-bottom: 35px;\">\n<h3 style=\"margin-top: 0; color: #1b5e20; font-size: 1.2em;\">💡 Concepto Científico Clave:</h3>\n<p style=\"margin: 0; font-size: 1.1em;\">A este movimiento lo llamamos <strong>Caída Libre</strong>. <br />La Caída Libre ocurre cuando un objeto cae de forma ideal <strong>sin que el aire lo frene</strong>. Cuando no hay aire, la gravedad de la Tierra atrae a todos los cuerpos por igual: <strong>¡todos los objetos caen exactamente con la misma velocidad, sin importar su peso!</strong></p>\n</div>\n<h2 style=\"color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 8px;\">2. Laboratorio Virtual con PhET (40 min)</h2>\n<p style=\"font-size: 1.1em;\">Ahora te toca a vos ser el científico. Vamos a experimentar usando el simulador interactivo de la pantalla.</p>\n<div style=\"background-color: #f9f9f9; border: 1px solid #dcdcdc; padding: 20px; border-radius: 8px; margin-bottom: 25px;\">\n<h4 style=\"margin-top: 0; color: #d35400; font-size: 1.1em;\">📋 Instrucciones de tu experimento (Seguí los pasos 1, 2 y 3):</h4>\n<p><strong>Paso 1: Preparar el laboratorio</strong></p>\n<ul style=\"margin: 0 0 15px 20px; padding: 0;\">\n<li>Hacé clic en la ventana del simulador de abajo para activarlo.</li>\n<li>Buscá en el menú de la derecha el botón que dice <strong>\"Resistencia del aire\"</strong> y asegurate de <strong>desactivarlo o desmarcarlo</strong> (así borramos el aire de la pantalla).</li>\n</ul>\n<p><strong>Paso 2: Lanzar los objetos</strong></p>\n<ul style=\"margin: 0 0 15px 20px; padding: 0;\">\n<li>Elegí dos objetos diferentes: por ejemplo, una <strong>bola de bowling pesada</strong> y una <strong>pelota de tenis liviana</strong>.</li>\n<li>Subilos a la misma altura usando el cursor.</li>\n<li>Soltalos al mismo tiempo.</li>\n</ul>\n<p><strong>Paso 3: Registrar lo observado</strong></p>\n<p style=\"margin: 0;\">Mirá la línea de caída: ¿Alguna pelota se adelantó o cayeron tocando el suelo de forma idéntica?</p>\n</div>\n<div style=\"position: relative; padding-bottom: 65%; height: 0; overflow: hidden; max-width: 100%; background: #eceff1; margin-bottom: 35px; border-radius: 8px; border: 2px solid #b0bec5;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;\" src=\"https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_es.html\" title=\"PhET Fuerzas y Movimiento\" data-mce-fragment=\"1\"></iframe></div>\n<h2 style=\"color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 8px;\">3. ¿Qué aprendimos hoy? (20 min)</h2>\n<p style=\"font-style: italic; color: #666; margin-bottom: 20px;\">Hacé clic en la respuesta que consideres correcta según tu trabajo en el laboratorio virtual:</p>\n<div style=\"background: #fdfefe; border: 1px solid #ccc; padding: 15px; margin-bottom: 15px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);\">\n<p style=\"font-weight: bold; margin-top: 0; font-size: 1.05em;\">Pregunta A: Si apagamos la \"resistencia del aire\" en el simulador, ¿cómo caen una bola pesada y una pelota liviana?</p>\n<button onclick=\"document.getElementById('c1-r1').style.display='block'; document.getElementById('c1-r2').style.display='none';\" style=\"display: block; width: 100%; text-align: left; padding: 10px; margin-bottom: 6px; background: #fff; border: 1px solid #bbb; border-radius: 4px; cursor: pointer;\">1. La bola pesada cae muchísimo más rápido.</button></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpxv2o7l-1oj7j2vse</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EL EXPERIMENTO EN LA LUNA</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EL EXPERIMENTO EN LA LUNA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EL EXPERIMENTO EN LA LUNA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>EL EXPERIMENTO EN LA LUNA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpxv2o7l-1oj7j2vse</odePageId>
+      <odeBlockId>block-1780261847834-mr7nno28b</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpxv2o7l-1oj7j2vse</odePageId>
+          <odeBlockId>block-1780261847834-mr7nno28b</odeBlockId>
+          <odeIdeviceId>idevice-1780261847830-r9jw56khj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; color: #333; line-height: 1.6;"><!-- BLOQUE DE ANTICIPACIÓN / RUTINA -->
+<div style="background-color: #e8f4fd; border-left: 6px solid #21b6ff; padding: 15px; margin-bottom: 25px; border-radius: 4px;">
+<h3 style="margin-top: 0; color: #0076b3; font-size: 1.2em;">🕒 Plan de hoy (80 minutos):</h3>
+<ul style="margin: 5px 0 0 20px; padding: 0;">
+<li><strong>Primeros 20 min:</strong> Mirar el video del Apolo 15 con mucha atención.</li>
+<li><strong>Siguientes 40 min:</strong> Responder las 3 preguntas interactivas aquí abajo.</li>
+<li><strong>Últimos 20 min:</strong> Repasar las respuestas con el profesor.</li>
+</ul>
+</div>
+<!-- SECCIÓN DEL VIDEO -->
+<h2 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 8px;">1. El Experimento en la Luna</h2>
+<p>Mirá el video de la misión Apolo 15. Prestá atención a las manos del astronauta cuando suelta los dos objetos al mismo tiempo:</p>
+<p></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/oYEgdZ3iEKA?si=TV2ea1Lsywmf5y0q" allowfullscreen="allowfullscreen"></iframe></p>
+<!-- CONTENEDOR PARA EL VIDEO DE YOUTUBE -->
+<h2 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 8px;">2. ¿Qué descubrimos en el video?</h2>
+<p style="font-style: italic; color: #555;">Hacé clic en la opción que creas correcta para comprobar tu respuesta:</p>
+<!-- PREGUNTA 1 -->
+<div style="background: #f9f9f9; border: 1px solid #e0e0e0; padding: 20px; margin-bottom: 20px; border-radius: 8px;">
+<p style="font-weight: bold; font-size: 1.1em; margin-top: 0;">Pregunta 1: El astronauta suelta un martillo pesado y una pluma liviana al mismo tiempo. ¿Qué pasa con los objetos en la Luna?</p>
+<button onclick="document.getElementById('p1-r1').style.display='block'; document.getElementById('p1-r2').style.display='none';" style="display: block; width: 100%; text-align: left; padding: 12px; margin-bottom: 8px; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 1em;">A) El martillo llega primero al suelo por ser más pesado.</button>
+<div id="p1-r1" style="display: none; background: #fde8e8; border-left: 4px solid #e74c3c; padding: 10px; margin-bottom: 10px; color: #c0392b;">❌ <strong>Intentá de nuevo:</strong> Mirá el video otra vez. En la Luna no hay aire que frene a los objetos ligeros por su forma.</div>
+<button onclick="document.getElementById('p1-r2').style.display='block'; document.getElementById('p1-r1').style.display='none';" style="display: block; width: 100%; text-align: left; padding: 12px; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 1em;">B) Los dos objetos caen juntos y tocan el suelo al mismo tiempo.</button>
+<div id="p1-r2" style="display: none; background: #edf7ed; border-left: 4px solid #2e7d32; padding: 10px; margin-top: 10px; color: #1b5e20;">canica⭐ <strong>¡Excelente!</strong> Al no haber aire que moleste a la pluma, la gravedad de la Luna atrae a los dos cuerpos con la misma aceleración. ¡Cayeron juntos!</div>
+</div>
+<!-- PREGUNTA 2 -->
+<div style="background: #f9f9f9; border: 1px solid #e0e0e0; padding: 20px; margin-bottom: 20px; border-radius: 8px;">
+<p style="font-weight: bold; font-size: 1.1em; margin-top: 0;">Pregunta 2: Si hiciéramos este mismo experimento en el patio de la escuela (en la Tierra), ¿cuál tocaría el suelo primero?</p>
+<button onclick="document.getElementById('p2-r1').style.display='block'; document.getElementById('p2-r2').style.display='none';" style="display: block; width: 100%; text-align: left; padding: 12px; margin-bottom: 8px; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 1em;">A) Caerían juntos al mismo tiempo, exactamente igual que en la Luna.</button>
+<div id="p2-r1" style="display: none; background: #fde8e8; border-left: 4px solid #e74c3c; padding: 10px; margin-bottom: 10px; color: #c0392b;">❌ <strong>¡Cuidado!</strong> Recordá que en el patio de la escuela nos rodea el aire, y el aire empuja a las cosas livianas hacia arriba.</div>
+<button onclick="document.getElementById('p2-r2').style.display='block'; document.getElementById('p2-r1').style.display='none';" style="display: block; width: 100%; text-align: left; padding: 12px; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 1em;">B) El martillo tocaría el suelo primero porque el aire frena mucho a la pluma.</button>
+<div id="p2-r2" style="display: none; background: #edf7ed; border-left: 4px solid #2e7d32; padding: 10px; margin-top: 10px; color: #1b5e20;">⭐ <strong>¡Muy bien!</strong> El aire en la Tierra actúa como un freno para la pluma debido a su forma. Por eso el martillo pesado gana la carrera en nuestro planeta.</div>
+</div>
+<!-- PREGUNTA 3 -->
+<div style="background: #f9f9f9; border: 1px solid #e0e0e0; padding: 20px; margin-bottom: 15px; border-radius: 8px;">
+<p style="font-weight: bold; font-size: 1.1em; margin-top: 0;">Pregunta 3: La "Caída Libre" ocurre cuando un objeto cae cuando NO hay aire que lo frene. Según esto, ¿dónde vimos una Caída Libre pura?</p>
+<button onclick="document.getElementById('p3-r1').style.display='block'; document.getElementById('p3-r2').style.display='none';" style="display: block; width: 100%; text-align: left; padding: 12px; margin-bottom: 8px; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 1em;">A) En el experimento en la Luna, porque allí hay vacío (no hay aire).</button>
+<div id="p3-r1" style="display: none; background: #edf7ed; border-left: 4px solid #2e7d32; padding: 10px; margin-bottom: 10px; color: #1b5e20;">⭐ <strong>¡Perfecto!</strong> Como la Luna no tiene atmósfera, es el lugar de la naturaleza ideal para observar la Caída Libre en su estado más puro.</div>
+<button onclick="document.getElementById('p3-r2').style.display='block'; document.getElementById('p3-r1').style.display='none';" style="display: block; width: 100%; text-align: left; padding: 12px; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 1em;">B) En la Tierra, cuando dejamos caer una hoja de papel.</button>
+<div id="p3-r2" style="display: none; background: #fde8e8; border-left: 4px solid #e74c3c; padding: 10px; margin-top: 10px; color: #c0392b;">❌ <strong>Intentá de nuevo:</strong> Si tirás un papel en la Tierra, el aire lo hace planear y balancearse. Eso no es caída libre pura porque el aire interviene mucho.</div>
+</div>
+</div>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780261847830-r9jw56khj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; color: #333; line-height: 1.6;\"><!-- BLOQUE DE ANTICIPACIÓN / RUTINA -->\n<div style=\"background-color: #e8f4fd; border-left: 6px solid #21b6ff; padding: 15px; margin-bottom: 25px; border-radius: 4px;\">\n<h3 style=\"margin-top: 0; color: #0076b3; font-size: 1.2em;\">🕒 Plan de hoy (80 minutos):</h3>\n<ul style=\"margin: 5px 0 0 20px; padding: 0;\">\n<li><strong>Primeros 20 min:</strong> Mirar el video del Apolo 15 con mucha atención.</li>\n<li><strong>Siguientes 40 min:</strong> Responder las 3 preguntas interactivas aquí abajo.</li>\n<li><strong>Últimos 20 min:</strong> Repasar las respuestas con el profesor.</li>\n</ul>\n</div>\n<!-- SECCIÓN DEL VIDEO -->\n<h2 style=\"color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 8px;\">1. El Experimento en la Luna</h2>\n<p>Mirá el video de la misión Apolo 15. Prestá atención a las manos del astronauta cuando suelta los dos objetos al mismo tiempo:</p>\n<p></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/oYEgdZ3iEKA?si=TV2ea1Lsywmf5y0q\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<!-- CONTENEDOR PARA EL VIDEO DE YOUTUBE -->\n<h2 style=\"color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 8px;\">2. ¿Qué descubrimos en el video?</h2>\n<p style=\"font-style: italic; color: #555;\">Hacé clic en la opción que creas correcta para comprobar tu respuesta:</p>\n<!-- PREGUNTA 1 -->\n<div style=\"background: #f9f9f9; border: 1px solid #e0e0e0; padding: 20px; margin-bottom: 20px; border-radius: 8px;\">\n<p style=\"font-weight: bold; font-size: 1.1em; margin-top: 0;\">Pregunta 1: El astronauta suelta un martillo pesado y una pluma liviana al mismo tiempo. ¿Qué pasa con los objetos en la Luna?</p>\n<button onclick=\"document.getElementById('p1-r1').style.display='block'; document.getElementById('p1-r2').style.display='none';\" style=\"display: block; width: 100%; text-align: left; padding: 12px; margin-bottom: 8px; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 1em;\">A) El martillo llega primero al suelo por ser más pesado.</button>\n<div id=\"p1-r1\" style=\"display: none; background: #fde8e8; border-left: 4px solid #e74c3c; padding: 10px; margin-bottom: 10px; color: #c0392b;\">❌ <strong>Intentá de nuevo:</strong> Mirá el video otra vez. En la Luna no hay aire que frene a los objetos ligeros por su forma.</div>\n<button onclick=\"document.getElementById('p1-r2').style.display='block'; document.getElementById('p1-r1').style.display='none';\" style=\"display: block; width: 100%; text-align: left; padding: 12px; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 1em;\">B) Los dos objetos caen juntos y tocan el suelo al mismo tiempo.</button>\n<div id=\"p1-r2\" style=\"display: none; background: #edf7ed; border-left: 4px solid #2e7d32; padding: 10px; margin-top: 10px; color: #1b5e20;\">canica⭐ <strong>¡Excelente!</strong> Al no haber aire que moleste a la pluma, la gravedad de la Luna atrae a los dos cuerpos con la misma aceleración. ¡Cayeron juntos!</div>\n</div>\n<!-- PREGUNTA 2 -->\n<div style=\"background: #f9f9f9; border: 1px solid #e0e0e0; padding: 20px; margin-bottom: 20px; border-radius: 8px;\">\n<p style=\"font-weight: bold; font-size: 1.1em; margin-top: 0;\">Pregunta 2: Si hiciéramos este mismo experimento en el patio de la escuela (en la Tierra), ¿cuál tocaría el suelo primero?</p>\n<button onclick=\"document.getElementById('p2-r1').style.display='block'; document.getElementById('p2-r2').style.display='none';\" style=\"display: block; width: 100%; text-align: left; padding: 12px; margin-bottom: 8px; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 1em;\">A) Caerían juntos al mismo tiempo, exactamente igual que en la Luna.</button>\n<div id=\"p2-r1\" style=\"display: none; background: #fde8e8; border-left: 4px solid #e74c3c; padding: 10px; margin-bottom: 10px; color: #c0392b;\">❌ <strong>¡Cuidado!</strong> Recordá que en el patio de la escuela nos rodea el aire, y el aire empuja a las cosas livianas hacia arriba.</div>\n<button onclick=\"document.getElementById('p2-r2').style.display='block'; document.getElementById('p2-r1').style.display='none';\" style=\"display: block; width: 100%; text-align: left; padding: 12px; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 1em;\">B) El martillo tocaría el suelo primero porque el aire frena mucho a la pluma.</button>\n<div id=\"p2-r2\" style=\"display: none; background: #edf7ed; border-left: 4px solid #2e7d32; padding: 10px; margin-top: 10px; color: #1b5e20;\">⭐ <strong>¡Muy bien!</strong> El aire en la Tierra actúa como un freno para la pluma debido a su forma. Por eso el martillo pesado gana la carrera en nuestro planeta.</div>\n</div>\n<!-- PREGUNTA 3 -->\n<div style=\"background: #f9f9f9; border: 1px solid #e0e0e0; padding: 20px; margin-bottom: 15px; border-radius: 8px;\">\n<p style=\"font-weight: bold; font-size: 1.1em; margin-top: 0;\">Pregunta 3: La \"Caída Libre\" ocurre cuando un objeto cae cuando NO hay aire que lo frene. Según esto, ¿dónde vimos una Caída Libre pura?</p>\n<button onclick=\"document.getElementById('p3-r1').style.display='block'; document.getElementById('p3-r2').style.display='none';\" style=\"display: block; width: 100%; text-align: left; padding: 12px; margin-bottom: 8px; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 1em;\">A) En el experimento en la Luna, porque allí hay vacío (no hay aire).</button>\n<div id=\"p3-r1\" style=\"display: none; background: #edf7ed; border-left: 4px solid #2e7d32; padding: 10px; margin-bottom: 10px; color: #1b5e20;\">⭐ <strong>¡Perfecto!</strong> Como la Luna no tiene atmósfera, es el lugar de la naturaleza ideal para observar la Caída Libre en su estado más puro.</div>\n<button onclick=\"document.getElementById('p3-r2').style.display='block'; document.getElementById('p3-r1').style.display='none';\" style=\"display: block; width: 100%; text-align: left; padding: 12px; background: #fff; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; font-size: 1em;\">B) En la Tierra, cuando dejamos caer una hoja de papel.</button>\n<div id=\"p3-r2\" style=\"display: none; background: #fde8e8; border-left: 4px solid #e74c3c; padding: 10px; margin-top: 10px; color: #c0392b;\">❌ <strong>Intentá de nuevo:</strong> Si tirás un papel en la Tierra, el aire lo hace planear y balancearse. Eso no es caída libre pura porque el aire interviene mucho.</div>\n</div>\n</div>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpxv2o7l-1oj7j2vse</odePageId>
+      <odeBlockId>block-1780268603963-adiyffqo8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpxv2o7l-1oj7j2vse</odePageId>
+          <odeBlockId>block-1780268603963-adiyffqo8</odeBlockId>
+          <odeIdeviceId>idevice-1780268603960-68j4nlm1x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780268603960-68j4nlm1x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
